@@ -1,3 +1,10 @@
+"Cryptoprices"
+
+*Create a "multi-page" React application using BrowserRouter.
+*Fetch and handle data from an external API in React.
+
+** JSX, React
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
