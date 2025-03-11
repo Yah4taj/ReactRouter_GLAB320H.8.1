@@ -1,7 +1,7 @@
 "Cryptoprices"
 
-*Create a "multi-page" React application using BrowserRouter.
-*Fetch and handle data from an external API in React.
+*Created a "multi-page" React application using BrowserRouter.
+*Fetch and handle data from an external API in React that displays top cryptocurrencies and up to date pricing.
 
 ** JSX, React
 
