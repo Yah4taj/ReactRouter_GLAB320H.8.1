@@ -7,11 +7,12 @@
 }
 
 .App {
-  /* background-color: black; */
-  color: white; 
-    min-height: 100vh; 
+  
+  color:black;
+  min-height: 100vh;
+  border: 2px solid black; 
 }
- 
+
 
 .currency-list {
   display: flex;
